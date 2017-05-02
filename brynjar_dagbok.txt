@@ -1,1 +1,2 @@
 4.4 - Unnum að topology mynd saman
+2.5 - Gerðum einn væng af verkefninu, settum trunks á öll port og settum upp vlans

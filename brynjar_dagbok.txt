@@ -1,2 +1,3 @@
-4.4 - Unnum a� topology mynd saman
-2.5 - Ger�um einn v�ng af verkefninu, settum trunks � �ll port og settum upp vlans
+4.4 - Unnum að topology mynd saman
+2.5 - Gerðum einn væng af verkefninu, settum trunks á öll port og settum upp vlans
+2.5 - Bætti við seinni væng af verkefninu. Á eftir að setja up trunks og vlans samt.

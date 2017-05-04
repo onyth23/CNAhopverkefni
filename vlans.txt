@@ -1,1 +1,16 @@
-ljosmyndun vlan 10
+
+
+S1
+  ljosmyndun vlan 10
+  Stofa 616 vlan 616
+  Kennarar vlan 20 - Ég tók þessa tölvu/vlan út vegna þess að er villa í verkefnalýsingu.Bætti henni við S2
+  
+S2
+  stofa 620 vlan 620    
+  stofa 621 vlan 621    
+  stofa 626 vlan 626
+  stofa 627 vlan 627
+  stofa 628 vlan 628
+  stofa 629 vlan 629
+  kennarar vlan 600
+  

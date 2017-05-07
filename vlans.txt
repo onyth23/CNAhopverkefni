@@ -14,3 +14,16 @@ S2
   stofa 629 vlan 629
   kennarar vlan 600
   
+S3
+  stofa 630 vlan 630
+  stofa 631 vlan 631
+  stofa 632 vlan 632
+  stofa 633 vlan 633
+  stofa 634 vlan 634
+  stofa 635 vlan 635
+  stofa 636 vlan 636
+  stofa 637 vlan 637
+  stofa 638 vlan 638
+  stofa 639 vlan 639
+  
+  

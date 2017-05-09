@@ -3,3 +3,5 @@
 2.5 - Bætti við seinni væng af verkefninu. Á eftir að setja up trunks og vlans samt.
 4.5 - Kláraði að setja upp alla trunka og vlans fyrir seinni vænginn. Er að vinna í DHCP fyrir ip tölurnar.
 7.5 - Setti upp DHCP og kláraði að setja upp síðasta vænginn. Setti líka port security öll port.
+9.5 - setti secret password á alla switcha (password: admin) . Stillti SSH stillingar á alla switcha. Bætti við Management Vlan 
+ 
